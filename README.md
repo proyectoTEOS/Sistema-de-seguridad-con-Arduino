@@ -1,5 +1,5 @@
 # Sistema de seguridad con Arduino
-Este sistema utiliza un teclado matricial 4x4 para gestionar los comandos del sistema, recuerda que para activar la alarma debes presionar el botón "#" para validar la contraseña. El display lo usamos para desplegar los mensajes de alerta, también usamos un pequeño buzzer por el cual se emiten pequeños sonidos intermitentes y unos leds que indicaran el estado del sistema. Podrás encontrar este proyecto con más detalle en[Sistema de seguridad con Arduino](https://www.proyecto-teos.com/sistema-de-seguridad-con-arduino).
+Este sistema utiliza un teclado matricial 4x4 para gestionar los comandos del sistema, recuerda que para activar la alarma debes presionar el botón "#" para validar la contraseña. El display lo usamos para desplegar los mensajes de alerta, también usamos un pequeño buzzer por el cual se emiten pequeños sonidos intermitentes y unos leds que indicaran el estado del sistema. Podrás encontrar este proyecto con más detalles aquí [Sistema de seguridad con Arduino](https://www.proyecto-teos.com/sistema-de-seguridad-con-arduino).
 
 ### Empezando
 Este proyecto se basa en los sensores que hemos usado anteriormente, si no tienes mucha experiencia en el manejo de dichos sensores puedes consultar nuestros repositorios.
